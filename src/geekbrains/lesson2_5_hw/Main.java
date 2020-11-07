@@ -7,4 +7,5 @@ public class Main {
         o.doCalculationOne();
         o.doCalculationTwo();
     }
+
 }
