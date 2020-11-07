@@ -46,5 +46,4 @@ public class Threads {
         System.arraycopy(arr2, 0, arr, half_size, half_size);
         System.out.println("Время окончания второго метода: " + (System.currentTimeMillis() - a));
     }
-
 }
