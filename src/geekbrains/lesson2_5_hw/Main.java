@@ -6,5 +6,6 @@ public class Main {
         Threads o = new Threads();
         o.doCalculationOne();
         o.doCalculationTwo();
+
     }
 }
